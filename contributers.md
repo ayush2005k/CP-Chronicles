@@ -67,4 +67,7 @@
 | Divakar Bhatt          | wodivakar                | IIIT Allahabad                                                  |
 | Aiyaan Mahajan        | Aiyaan-Mahajan | NIT Srinagar |
 | Ahwan Sarkar           | ahwan84                  | IIIT Allahabad
+| Arushi Pandey         | Arushi2911     | NMIMS Chandigarh |
+| Thanusha Nallabelli   | thanusha17     | IIIT Allahabad   | 
+
 <!-- example | Korvac | Betty | Reyansh College | -->
